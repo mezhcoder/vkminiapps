@@ -1,0 +1,21 @@
+/*.gold {
+	color: #F2B75F;
+}
+
+.w-card {
+	width: 20%;
+	height: 200px;
+	background-color: #2a2c39;
+}
+
+.wrapper {
+	display: flex;
+	  flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.w-card img {
+	display: block;
+    height: 100px;
+/*	max-width: 100%;*/
+}*/

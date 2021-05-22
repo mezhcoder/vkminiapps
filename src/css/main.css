@@ -1,0 +1,52 @@
+body {
+
+}
+
+
+
+.title {
+	font-size: 2.5rem;
+}
+
+.wrapper h1 {
+	color: #000;
+}
+
+a {
+	color: #6c757d;
+}
+
+.wrapper p {
+	color: #6c757d;
+	width: 240px;
+	margin: 0 auto;
+}
+
+.gold {
+	color: #F2B75F;
+}
+
+.w-card {
+	border-radius: 8px;
+	margin-bottom: 50px;
+	padding: 0px 30px;
+	width: 312px;
+	height: 580px;
+	background-color: #DDDDDD;
+	text-align: center;
+}
+
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+img {
+	padding-top: 30px;
+	height: 65%;
+}
+
+footer {
+	padding: 20px;
+}
