@@ -17,6 +17,9 @@ import {
 } from "@vkontakte/vkui";
 import "@vkontakte/vkui/dist/vkui.css";
 import "./css/main.css";
+import bridge from '@vkontakte/vk-bridge';
+
+bridge.send("VKWebAppInit", {});
 
 const Example = () => {
 
